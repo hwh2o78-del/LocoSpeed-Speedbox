@@ -1,5 +1,7 @@
 {
-  "version": "1.1",
+  "version": "1.1.0",
   "download_url": "https://github.com/hwh2o78-del/LocoSpeed-Speedbox/releases/latest",
+  "installer_url": "https://github.com/hwh2o78-del/LocoSpeed-Speedbox/releases/download/v1.1.0/LocoSpeed_Speedbox_Setup_1.1.0.exe",
+  "hex_url": "https://github.com/hwh2o78-del/LocoSpeed-Speedbox/releases/download/v1.1.0/LocoSpeed_Speedometer.ino.hex",
   "notes": "Aktuelle stabile Version von LocoSpeed Speedbox."
 }
